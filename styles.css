@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9ceac;
+}
+
+.contenedor {
+    width: 98%;
+    max-width: 1400px;
+    margin: auto;
+    border: 5px solid #e9ceac;
+    overflow: hidden;
+}
+
+.azul {
+    background-color: #7df5f5ce;
+    color: #7df5f5ce;
+    border: 4px solid #e9ceac;
+    box-sizing: border-box;
+    height: auto;
+    padding: 53px;
+    text-align: center;
+}
+
+.principal {
+    width: 100%;
+    float: left;
+    height: 50px;
+}
+
+.cien-por-ciento {
+    width: 100%;
+    float: left;
+}
+
+.cincuenta-por-ciento {
+    width: 50%;
+    float: left;
+}
